@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7F4DDF0A-8056-4D73-A448-9846317F069D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>newSwiftApp1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F09CCAF5EB102B9BCFDCCC5EFD8980AB1B30CE18</key>
+		<string>https://github.com/maetaka/test1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test1/newSwiftApp1/newSwiftApp1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F09CCAF5EB102B9BCFDCCC5EFD8980AB1B30CE18</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maetaka/test1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F09CCAF5EB102B9BCFDCCC5EFD8980AB1B30CE18</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F09CCAF5EB102B9BCFDCCC5EFD8980AB1B30CE18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
